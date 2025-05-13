@@ -21,4 +21,4 @@ A lightweight Chrome extension that automatically redirects any URL ending with 
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/<your-username>/datapower-force-old-webgui.git
+   git clone https://github.com/avielzlevy/datapower-force-old-webgui.git
